@@ -1,6 +1,6 @@
 # DoomsdayCountdown
 
-A minimal Marvel Avengers **Doomsday countdown** website made to be used as a **Web Wallpaper** in **Lively Wallpaper**.
+A minimal Marvel Avengers **Doomsday countdown** website made to be used as a **Web Wallpaper** in **Lively Wallpaper** or **Wallpaper Engine**.
 
 Live site: https://intensesoftwares.github.io/DoomsdayCountdown/
 
@@ -46,6 +46,7 @@ If you want smoother playback and less network dependency, you can use it locall
 ## Tips (Lively)
 - A "Ticking" audio will play when theere is no application occupying the desktop view.
 - If you want less CPU usage, lower the update rate in `script.js` (example: update every `1000ms`).
+- Update: Recent browser update blocks the audio from playing until the page is clicked.
 
 ---
 
