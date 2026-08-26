@@ -1,5 +1,5 @@
 // Release date/time in UTC
-const RELEASE_UTC = new Date("2026-12-18T00:00:00Z");
+const RELEASE_UTC = new Date("2027-05-04T00:00:00Z");
 
 const el = {
   months: document.getElementById("months"),
