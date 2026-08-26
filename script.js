@@ -81,10 +81,7 @@ function tick() {
   el.hours.textContent = pad2(r.hours);
   el.mins.textContent = pad2(r.mins);
   el.secs.textContent = pad2(r.secs);
-
-  if (r.done) {
-    document.querySelector("h1").textContent = "DOOMSDAY IS HERE";
-  }
+  
 }
 
 const bg = document.getElementById("bg");
